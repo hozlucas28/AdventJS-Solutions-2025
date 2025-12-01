@@ -16,10 +16,6 @@
     <a href="#----contact">Contact</a>
 </p>
 
-<p align="center">
-    <img src="./.github/adventjs-logo.png" width="625">
-</p>
-
 <h2>
     Summary
 </h2>
