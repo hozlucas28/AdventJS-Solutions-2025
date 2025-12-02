@@ -42,10 +42,11 @@
     Challenges
 </h2>
 
-|     #     | Challenge                                | Difficulty | Stars earned |        Description         |
-| :-------: | ---------------------------------------- | :--------: | :----------: | :------------------------: |
-|    01     | Filter non-defective gifts from the list |     🟢     |    **8**     | [Show](./src/01-challenge) |
-| **Total** |                                          |   **/**    |    **8**     |           **/**            |
+|     #     | Challenge                                                                                   | Difficulty | Stars earned |        Description         |
+| :-------: | ------------------------------------------------------------------------------------------- | :--------: | :----------: | :------------------------: |
+|    01     | Filter non-defective gifts from the list                                                    |     🟢     |    **8**     | [Show](./src/01-challenge) |
+|    02     | Transform an array of gift-quantity map into an array of gift names and remove invalid ones |     🟢     |    **8**     | [Show](./src/02-challenge) |
+| **Total** |                                                                                             |   **/**    |    **16**    |           **/**            |
 
 <h2>
     Related

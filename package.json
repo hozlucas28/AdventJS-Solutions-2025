@@ -18,6 +18,7 @@
 		"build": "tsc",
 		"prepare": "husky install",
 		"test": "jest",
-		"test:challenge01": "jest --testPathPattern='/src/01-challenge/.*\\.spec\\.ts$'"
+		"test:challenge01": "jest --testPathPattern='/src/01-challenge/.*\\.spec\\.ts$'",
+		"test:challenge02": "jest --testPathPattern='/src/02-challenge/.*\\.spec\\.ts$'"
 	}
 }
