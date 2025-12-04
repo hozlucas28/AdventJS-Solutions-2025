@@ -47,7 +47,8 @@
 |    01     | Filter non-defective gifts from the list                                                    |     🟢     |    **8**     | [Show](./src/01-challenge) |
 |    02     | Transform an array of gift-quantity map into an array of gift names and remove invalid ones |     🟢     |    **8**     | [Show](./src/02-challenge) |
 |    03     | Wrap boxes using only text                                                                  |     🟢     |    **8**     | [Show](./src/03-challenge) |
-| **Total** |                                                                                             |   **/**    |    **24**    |           **/**            |
+|    04     | Decode the code of door Santa's workshop                                                    |     🟢     |    **8**     | [Show](./src/04-challenge) |
+| **Total** |                                                                                             |   **/**    |    **32**    |           **/**            |
 
 <h2>
     Related
