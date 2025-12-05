@@ -48,7 +48,8 @@
 |    02     | Transform an array of gift-quantity map into an array of gift names and remove invalid ones |     🟢     |    **8**     | [Show](./src/02-challenge) |
 |    03     | Wrap boxes using only text                                                                  |     🟢     |    **8**     | [Show](./src/03-challenge) |
 |    04     | Decode the code of door Santa's workshop                                                    |     🟢     |    **8**     | [Show](./src/04-challenge) |
-| **Total** |                                                                                             |   **/**    |    **32**    |           **/**            |
+|    05     | Calculate the remaining seconds until sleigh take off                                       |     🟢     |    **8**     | [Show](./src/05-challenge) |
+| **Total** |                                                                                             |   **/**    |    **40**    |           **/**            |
 
 <h2>
     Related
