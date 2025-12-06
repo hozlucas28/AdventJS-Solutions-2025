@@ -49,7 +49,8 @@
 |    03     | Wrap boxes using only text                                                                  |     🟢     |    **8**     | [Show](./src/03-challenge) |
 |    04     | Decode the code of door Santa's workshop                                                    |     🟠     |    **8**     | [Show](./src/04-challenge) |
 |    05     | Calculate the remaining seconds until sleigh take off                                       |     🟢     |    **8**     | [Show](./src/05-challenge) |
-| **Total** |                                                                                             |   **/**    |    **40**    |           **/**            |
+|    06     | Get the number of glove pairs                                                               |     🟢     |    **8**     | [Show](./src/06-challenge) |
+| **Total** |                                                                                             |   **/**    |    **48**    |           **/**            |
 
 <h2>
     Related
