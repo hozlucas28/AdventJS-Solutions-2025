@@ -50,7 +50,8 @@
 |    04     | Decode the code of door Santa's workshop                                                    |     🟠     |    **8**     | [Show](./src/04-challenge) |
 |    05     | Calculate the remaining seconds until sleigh take off                                       |     🟢     |    **8**     | [Show](./src/05-challenge) |
 |    06     | Get the number of glove pairs                                                               |     🟢     |    **8**     | [Show](./src/06-challenge) |
-| **Total** |                                                                                             |   **/**    |    **48**    |           **/**            |
+|    07     | Draw a Christmas tree                                                                       |     🟢     |    **8**     | [Show](./src/07-challenge) |
+| **Total** |                                                                                             |   **/**    |    **56**    |           **/**            |
 
 <h2>
     Related
