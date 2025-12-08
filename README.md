@@ -2,18 +2,22 @@
     AdventJS Solutions [2025] 🎅🎄
 </h1>
 
-<h4 align="center">
-    Repository of <a href="https://adventjs.dev/" target="_blank">AdventJS<a> programming challenges by <a href="https://www.linkedin.com/in/midudev/" target="_blank">Midudev</a>.
-</h4>
+<p align="center">
+    <strong>Repository of <a href="https://adventjs.dev/" target="_blank">AdventJS<a> programming challenges by <a href="https://www.linkedin.com/in/midudev/" target="_blank">Midudev</a>.</strong>
+</p>
 
 <p align="center">
-    <a href="#----summary">Summary</a> •
-    <a href="#----installation">Installation</a> •
-    <a href="#----challenges">Challenges</a> •
-    <a href="#----related">Related</a> •
-    <a href="#----license">License</a> •
-    <a href="#----acknowledgments">Acknowledgments</a> •
-    <a href="#----contact">Contact</a>
+    <a href="#summary">Summary</a> •
+    <a href="#installation">Installation</a> •
+    <a href="#challenges">Challenges</a> •
+    <a href="#related">Related</a> •
+    <a href="#license">License</a> •
+    <a href="#acknowledgments">Acknowledgments</a> •
+    <a href="#contact">Contact</a>
+</p>
+
+<p align="center">
+    <img src="./.github/adventjs-logo.png" width="625">
 </p>
 
 <h2>
