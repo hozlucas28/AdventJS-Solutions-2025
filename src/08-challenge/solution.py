@@ -3,7 +3,7 @@ from typing import TypedDict
 CharCounter = TypedDict("CharCounter", {"char": str, "amount": int})
 
 
-def find_unique_toy(toy: str) -> str:
+def fn(toy: str) -> str:
     char_counters: list[CharCounter] = []
 
     for char in toy:
