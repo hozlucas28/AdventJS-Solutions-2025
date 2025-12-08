@@ -51,7 +51,8 @@
 |    05     | Calculate the remaining seconds until sleigh take off                                       |     🟢     |    **8**     | [Show](./src/05-challenge) |
 |    06     | Get the number of glove pairs                                                               |     🟢     |    **8**     | [Show](./src/06-challenge) |
 |    07     | Draw a Christmas tree                                                                       |     🟢     |    **8**     | [Show](./src/07-challenge) |
-| **Total** |                                                                                             |   **/**    |    **56**    |           **/**            |
+|    08     | Find the first letter that is not repeated                                                  |     🟢     |    **8**     | [Show](./src/08-challenge) |
+| **Total** |                                                                                             |   **/**    |    **64**    |           **/**            |
 
 <h2>
     Related
