@@ -56,7 +56,8 @@
 |    06     | Get the number of glove pairs                                                               |     🟢     |    **8**     | [Show](./src/06-challenge) |
 |    07     | Draw a Christmas tree                                                                       |     🟢     |    **8**     | [Show](./src/07-challenge) |
 |    08     | Find the first letter that is not repeated                                                  |     🟢     |    **8**     | [Show](./src/08-challenge) |
-| **Total** |                                                                                             |   **/**    |    **64**    |           **/**            |
+|    09     | Calculate pick result of the robot vacuum reindeer                                          |     🔴     |    **7**     | [Show](./src/09-challenge) |
+| **Total** |                                                                                             |   **/**    |    **71**    |           **/**            |
 
 <h2>
     Related
