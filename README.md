@@ -57,7 +57,8 @@
 |    07     | Draw a Christmas tree                                                                       |     🟢     |    **8**     | [Show](./src/07-challenge) |
 |    08     | Find the first letter that is not repeated                                                  |     🟢     |    **8**     | [Show](./src/08-challenge) |
 |    09     | Calculate pick result of the robot vacuum reindeer                                          |     🔴     |    **7**     | [Show](./src/09-challenge) |
-| **Total** |                                                                                             |   **/**    |    **71**    |           **/**            |
+|    10     | Find out the intensity of the wishes                                                        |     🟢     |    **8**     | [Show](./src/10-challenge) |
+| **Total** |                                                                                             |   **/**    |    **79**    |           **/**            |
 
 <h2>
     Related
