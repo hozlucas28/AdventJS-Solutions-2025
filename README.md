@@ -60,7 +60,8 @@
 |    10     | Find out the intensity of the wishes                                                        |     🟢     |    **8**     | [Show](./src/10-challenge) |
 |    12     | Get the winner of the elf battle                                                            |     🟠     |    **8**     | [Show](./src/12-challenge) |
 |    13     | Simulate the path of a gift inside a factory and return how it ends                         |     🟠     |    **8**     | [Show](./src/13-challenge) |
-| **Total** |                                                                                             |   **/**    |    **95**    |           **/**            |
+|    14     | Find the path of keys to find a specific present                                            |     🟢     |    **8**     | [Show](./src/14-challenge) |
+| **Total** |                                                                                             |   **/**    |   **103**    |           **/**            |
 
 <h2>
     Related
