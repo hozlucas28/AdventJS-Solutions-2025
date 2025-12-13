@@ -58,7 +58,8 @@
 |    08     | Find the first letter that is not repeated                                                  |     🟢     |    **8**     | [Show](./src/08-challenge) |
 |    09     | Calculate pick result of the robot vacuum reindeer                                          |     🔴     |    **7**     | [Show](./src/09-challenge) |
 |    10     | Find out the intensity of the wishes                                                        |     🟢     |    **8**     | [Show](./src/10-challenge) |
-| **Total** |                                                                                             |   **/**    |    **79**    |           **/**            |
+|    12     | Get the winner of the elf battle                                                            |     🟠     |    **8**     | [Show](./src/12-challenge) |
+| **Total** |                                                                                             |   **/**    |    **87**    |           **/**            |
 
 <h2>
     Related

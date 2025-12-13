@@ -27,6 +27,7 @@
 		"test:challenge07": "jest --testPathPattern='/src/07-challenge/.*\\.spec\\.ts$'",
 		"test:challenge08": "jest --testPathPattern='/src/08-challenge/.*\\.spec\\.ts$'",
 		"test:challenge09": "jest --testPathPattern='/src/09-challenge/.*\\.spec\\.ts$'",
-		"test:challenge10": "jest --testPathPattern='/src/10-challenge/.*\\.spec\\.ts$'"
+		"test:challenge10": "jest --testPathPattern='/src/10-challenge/.*\\.spec\\.ts$'",
+		"test:challenge12": "jest --testPathPattern='/src/12-challenge/.*\\.spec\\.ts$'",
 	}
 }
