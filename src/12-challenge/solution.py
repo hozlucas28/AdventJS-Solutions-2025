@@ -17,7 +17,7 @@ def fn(elf1: str, elf2: str) -> int:
             else victim_life_points - 1
         ),
         "B": lambda victim_life_points, _: victim_life_points,
-        "F": lambda victim_life_points, _: victim_life_points,
+        "F": lambda victim_life_points, _: victim_life_points - 2,
     }
 
     min_actions_length = min(len(elf01["actions"]), len(elf02["actions"]))
