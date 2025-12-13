@@ -50,4 +50,4 @@ findGiftPath(workshop, 'plane')
 
 ## Stars earned
 
-![XXX stars](../../.github/14-challenge-stars.png)
+![8 stars](../../.github/14-challenge-stars.png)
