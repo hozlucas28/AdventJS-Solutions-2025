@@ -59,7 +59,8 @@
 |    09     | Calculate pick result of the robot vacuum reindeer                                          |     🔴     |    **7**     | [Show](./src/09-challenge) |
 |    10     | Find out the intensity of the wishes                                                        |     🟢     |    **8**     | [Show](./src/10-challenge) |
 |    12     | Get the winner of the elf battle                                                            |     🟠     |    **8**     | [Show](./src/12-challenge) |
-| **Total** |                                                                                             |   **/**    |    **87**    |           **/**            |
+|    13     | Simulate the path of a gift inside a factory and return how it ends                         |     🟠     |    **8**     | [Show](./src/13-challenge) |
+| **Total** |                                                                                             |   **/**    |    **95**    |           **/**            |
 
 <h2>
     Related
