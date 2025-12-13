@@ -58,10 +58,11 @@
 |    08     | Find the first letter that is not repeated                                                  |     🟢     |    **8**     | [Show](./src/08-challenge) |
 |    09     | Calculate pick result of the robot vacuum reindeer                                          |     🔴     |    **7**     | [Show](./src/09-challenge) |
 |    10     | Find out the intensity of the wishes                                                        |     🟢     |    **8**     | [Show](./src/10-challenge) |
+|    11     | Count how many gifts are unattended                                                         |     🟢     |    **8**     | [Show](./src/11-challenge) |
 |    12     | Get the winner of the elf battle                                                            |     🟠     |    **8**     | [Show](./src/12-challenge) |
 |    13     | Simulate the path of a gift inside a factory and return how it ends                         |     🟠     |    **8**     | [Show](./src/13-challenge) |
 |    14     | Find the path of keys to find a specific present                                            |     🟢     |    **8**     | [Show](./src/14-challenge) |
-| **Total** |                                                                                             |   **/**    |   **103**    |           **/**            |
+| **Total** |                                                                                             |   **/**    |   **111**    |           **/**            |
 
 <h2>
     Related
