@@ -62,7 +62,8 @@
 |    12     | Get the winner of the elf battle                                                            |     🟠     |    **8**     | [Show](./src/12-challenge) |
 |    13     | Simulate the path of a gift inside a factory and return how it ends                         |     🟠     |    **8**     | [Show](./src/13-challenge) |
 |    14     | Find the path of keys to find a specific present                                            |     🟢     |    **8**     | [Show](./src/14-challenge) |
-| **Total** |                                                                                             |   **/**    |   **111**    |           **/**            |
+|    15     | Turns an array of objects into a text table                                                 |     🟠     |    **8**     | [Show](./src/15-challenge) |
+| **Total** |                                                                                             |   **/**    |   **119**    |           **/**            |
 
 <h2>
     Related
