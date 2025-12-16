@@ -63,7 +63,8 @@
 |    13     | Simulate the path of a gift inside a factory and return how it ends                         |     🟠     |    **8**     | [Show](./src/13-challenge) |
 |    14     | Find the path of keys to find a specific present                                            |     🟢     |    **8**     | [Show](./src/14-challenge) |
 |    15     | Turns an array of objects into a text table                                                 |     🟠     |    **8**     | [Show](./src/15-challenge) |
-| **Total** |                                                                                             |   **/**    |   **119**    |           **/**            |
+|    16     | Calculates the minimum number of sleighs needed to deliver all the gifts                    |     🟢     |    **8**     | [Show](./src/16-challenge) |
+| **Total** |                                                                                             |   **/**    |   **127**    |           **/**            |
 
 <h2>
     Related
