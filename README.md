@@ -46,26 +46,27 @@
     Challenges
 </h2>
 
-|     #     | Challenge                                                                                   | Difficulty | Stars earned |        Description         |
-| :-------: | ------------------------------------------------------------------------------------------- | :--------: | :----------: | :------------------------: |
-|    01     | Filter non-defective gifts from the list                                                    |     🟢     |    **8**     | [Show](./src/01-challenge) |
-|    02     | Transform an array of gift-quantity map into an array of gift names and remove invalid ones |     🟢     |    **8**     | [Show](./src/02-challenge) |
-|    03     | Wrap boxes using only text                                                                  |     🟢     |    **8**     | [Show](./src/03-challenge) |
-|    04     | Decode the code of door Santa's workshop                                                    |     🟠     |    **8**     | [Show](./src/04-challenge) |
-|    05     | Calculate the remaining seconds until sleigh take off                                       |     🟢     |    **8**     | [Show](./src/05-challenge) |
-|    06     | Get the number of glove pairs                                                               |     🟢     |    **8**     | [Show](./src/06-challenge) |
-|    07     | Draw a Christmas tree                                                                       |     🟢     |    **8**     | [Show](./src/07-challenge) |
-|    08     | Find the first letter that is not repeated                                                  |     🟢     |    **8**     | [Show](./src/08-challenge) |
-|    09     | Calculate pick result of the robot vacuum reindeer                                          |     🔴     |    **7**     | [Show](./src/09-challenge) |
-|    10     | Find out the intensity of the wishes                                                        |     🟢     |    **8**     | [Show](./src/10-challenge) |
-|    11     | Count how many gifts are unattended                                                         |     🟢     |    **8**     | [Show](./src/11-challenge) |
-|    12     | Get the winner of the elf battle                                                            |     🟠     |    **8**     | [Show](./src/12-challenge) |
-|    13     | Simulate the path of a gift inside a factory and return how it ends                         |     🟠     |    **8**     | [Show](./src/13-challenge) |
-|    14     | Find the path of keys to find a specific present                                            |     🟢     |    **8**     | [Show](./src/14-challenge) |
-|    15     | Turns an array of objects into a text table                                                 |     🟠     |    **8**     | [Show](./src/15-challenge) |
-|    16     | Calculates the minimum number of sleighs needed to deliver all the gifts                    |     🟢     |    **8**     | [Show](./src/16-challenge) |
-|    17     | Check if there is a line of 4 lights of the same color that are on and aligned on the panel |     🟢     |    **8**     | [Show](./src/17-challenge) |
-| **Total** |                                                                                             |   **/**    |   **135**    |           **/**            |
+|     #     | Challenge                                                                                                                          | Difficulty | Stars earned |        Description         |
+| :-------: | ---------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: | :------------------------: |
+|    01     | Filter non-defective gifts from the list                                                                                           |     🟢     |    **8**     | [Show](./src/01-challenge) |
+|    02     | Transform an array of gift-quantity map into an array of gift names and remove invalid ones                                        |     🟢     |    **8**     | [Show](./src/02-challenge) |
+|    03     | Wrap boxes using only text                                                                                                         |     🟢     |    **8**     | [Show](./src/03-challenge) |
+|    04     | Decode the code of door Santa's workshop                                                                                           |     🟠     |    **8**     | [Show](./src/04-challenge) |
+|    05     | Calculate the remaining seconds until sleigh take off                                                                              |     🟢     |    **8**     | [Show](./src/05-challenge) |
+|    06     | Get the number of glove pairs                                                                                                      |     🟢     |    **8**     | [Show](./src/06-challenge) |
+|    07     | Draw a Christmas tree                                                                                                              |     🟢     |    **8**     | [Show](./src/07-challenge) |
+|    08     | Find the first letter that is not repeated                                                                                         |     🟢     |    **8**     | [Show](./src/08-challenge) |
+|    09     | Calculate pick result of the robot vacuum reindeer                                                                                 |     🔴     |    **7**     | [Show](./src/09-challenge) |
+|    10     | Find out the intensity of the wishes                                                                                               |     🟢     |    **8**     | [Show](./src/10-challenge) |
+|    11     | Count how many gifts are unattended                                                                                                |     🟢     |    **8**     | [Show](./src/11-challenge) |
+|    12     | Get the winner of the elf battle                                                                                                   |     🟠     |    **8**     | [Show](./src/12-challenge) |
+|    13     | Simulate the path of a gift inside a factory and return how it ends                                                                |     🟠     |    **8**     | [Show](./src/13-challenge) |
+|    14     | Find the path of keys to find a specific present                                                                                   |     🟢     |    **8**     | [Show](./src/14-challenge) |
+|    15     | Turns an array of objects into a text table                                                                                        |     🟠     |    **8**     | [Show](./src/15-challenge) |
+|    16     | Calculates the minimum number of sleighs needed to deliver all the gifts                                                           |     🟢     |    **8**     | [Show](./src/16-challenge) |
+|    17     | Check if there is a line of 4 lights of the same color that are on and aligned horizontally or vertically on the panel             |     🟢     |    **8**     | [Show](./src/17-challenge) |
+|    18     | Check if there is a line of 4 lights of the same color that are on and aligned horizontally, vertically or diagonally on the panel |     🟠     |    **8**     | [Show](./src/18-challenge) |
+| **Total** |                                                                                                                                    |   **/**    |   **143**    |           **/**            |
 
 <h2>
     Related
