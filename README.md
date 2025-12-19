@@ -66,7 +66,8 @@
 |    16     | Calculates the minimum number of sleighs needed to deliver all the gifts                                                           |     🟢     |    **8**     | [Show](./src/16-challenge) |
 |    17     | Check if there is a line of 4 lights of the same color that are on and aligned horizontally or vertically on the panel             |     🟢     |    **8**     | [Show](./src/17-challenge) |
 |    18     | Check if there is a line of 4 lights of the same color that are on and aligned horizontally, vertically or diagonally on the panel |     🟠     |    **8**     | [Show](./src/18-challenge) |
-| **Total** |                                                                                                                                    |   **/**    |   **143**    |           **/**            |
+|    19     | Reconstruct the complete route from the origin to the final destination                                                            |   🟢🟠🔴   |    **8**     | [Show](./src/19-challenge) |
+| **Total** |                                                                                                                                    |   **/**    |   **151**    |           **/**            |
 
 <h2>
     Related
