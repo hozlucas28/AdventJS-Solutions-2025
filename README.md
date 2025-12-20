@@ -68,7 +68,8 @@
 |    18     | Check if there is a line of 4 lights of the same color that are on and aligned horizontally, vertically or diagonally on the panel |     🟠     |    **8**     | [Show](./src/18-challenge) |
 |    19     | Reconstruct the complete route from the origin to the final destination                                                            |     🟢     |    **8**     | [Show](./src/19-challenge) |
 |    20     | Drop gifts in a vertical warehouse                                                                                                 |     🟢     |    **8**     | [Show](./src/20-challenge) |
-| **Total** |                                                                                                                                    |   **/**    |   **159**    |           **/**            |
+|    21     | Drop gifts in a vertical warehouse and clean filled rows                                                                           |     🟠     |    **8**     | [Show](./src/21-challenge) |
+| **Total** |                                                                                                                                    |   **/**    |   **167**    |           **/**            |
 
 <h2>
     Related
