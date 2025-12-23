@@ -14,7 +14,7 @@ export default function fn(maze: MazeCell[][]): boolean {
 	let canReachExit = false
 
 	const santaPos: CellPosition = [-1, -1]
-	for (let i = 0; i < maze.length && santaPos[0] === -1; i++) {
+	for (let i = 0; i < maze.length && santaPos[1] === -1; i++) {
 		const j = maze[i].indexOf(SANTA_CELL)
 		;[santaPos[0], santaPos[1]] = [i, j]
 	}
