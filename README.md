@@ -70,7 +70,8 @@
 |    20     | Drop gifts in a vertical warehouse                                                                                                 |     🟢     |    **8**     | [Show](./src/20-challenge) |
 |    21     | Drop gifts in a vertical warehouse and clean filled rows                                                                           |     🟠     |    **8**     | [Show](./src/21-challenge) |
 |    22     | Determines if it is possible to reach the maze exit                                                                                |     🔴     |    **8**     | [Show](./src/22-challenge) |
-| **Total** |                                                                                                                                    |   **/**    |   **175**    |           **/**            |
+|    23     | Calculate the total number of steps required to reach all the houses with presents from the starting position                      |     🟠     |    **8**     | [Show](./src/23-challenge) |
+| **Total** |                                                                                                                                    |   **/**    |   **183**    |           **/**            |
 
 <h2>
     Related
