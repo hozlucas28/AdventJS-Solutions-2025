@@ -71,7 +71,8 @@
 |    21     | Drop gifts in a vertical warehouse and clean filled rows                                                                           |     🟠     |    **8**     | [Show](./src/21-challenge) |
 |    22     | Determines if it is possible to reach the maze exit                                                                                |     🔴     |    **8**     | [Show](./src/22-challenge) |
 |    23     | Calculate the total number of steps required to reach all the houses with presents from the starting position                      |     🟠     |    **8**     | [Show](./src/23-challenge) |
-| **Total** |                                                                                                                                    |   **/**    |   **183**    |           **/**            |
+|    24     | Verify if the trees are synchronized so that the star can keep shining                                                             |     🟠     |    **8**     | [Show](./src/24-challenge) |
+| **Total** |                                                                                                                                    |   **/**    |   **191**    |           **/**            |
 
 <h2>
     Related
