@@ -72,7 +72,8 @@
 |    22     | Determines if it is possible to reach the maze exit                                                                                |     🔴     |    **8**     | [Show](./src/22-challenge) |
 |    23     | Calculate the total number of steps required to reach all the houses with presents from the starting position                      |     🟠     |    **8**     | [Show](./src/23-challenge) |
 |    24     | Verify if the trees are synchronized so that the star can keep shining                                                             |     🟠     |    **8**     | [Show](./src/24-challenge) |
-| **Total** |                                                                                                                                    |   **/**    |   **191**    |           **/**            |
+|    25     | Get the value of the program after executing all the instructions                                                                  |     🟠     |    **7**     | [Show](./src/25-challenge) |
+| **Total** |                                                                                                                                    |   **/**    |   **198**    |           **/**            |
 
 <h2>
     Related
